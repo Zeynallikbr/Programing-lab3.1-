@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\bin\Debug\net8.0\App1(içiçe).exe
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\bin\Debug\net8.0\App1(içiçe).deps.json
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\bin\Debug\net8.0\App1(içiçe).runtimeconfig.json
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\bin\Debug\net8.0\App1(içiçe).dll
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\bin\Debug\net8.0\App1(içiçe).pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\App1(içiçe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\App1(içiçe).AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\App1(içiçe).AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\App1(içiçe).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\App1(içiçe).dll
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\refint\App1(içiçe).dll
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\App1(içiçe).pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\App1(içiçe).genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask3\App1(içiçe)\App1(içiçe)\obj\Debug\net8.0\ref\App1(içiçe).dll
