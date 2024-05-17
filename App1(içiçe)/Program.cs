@@ -6,11 +6,11 @@
         {
             for (int a = 1; a < 6; a++)
             {
-                Console.WriteLine($"a {a}");
+                Console.WriteLine($"a= {a}");
                 for (int i = 1;  i<=3; i++)
                 {
 
-                    Console.WriteLine($"i {i}");
+                    Console.WriteLine($"i= {i}");
                 }
                 Console.WriteLine(" ");
             }
